@@ -27,3 +27,5 @@ cd app
 mvn spring-boot:run
 or
 ../mvnw spring-boot:run
+
+## Application uses basic auth the credentials are configured in application.yml
